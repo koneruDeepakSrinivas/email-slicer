@@ -1,3 +1,4 @@
+#this is in pyhton code
 email = input("Enter Your Email: ").strip()
 
 username = email[:email.index('@')]
